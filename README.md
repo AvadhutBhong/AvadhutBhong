@@ -74,13 +74,12 @@ Hi, I'm **Avadhut Bhong** — a passionate **Flutter Developer** exploring **Bac
 ---
 
 ### 📌 My Pinned Projects:
-<a href="https://github.com/AvadhutBhong/EduShelf-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvadhutBhong&repo=EduShelf-Flutter&theme=github_dark" />
-</a>
-<a href="https://github.com/AvadhutBhong/Voice-Assistant-App-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvadhutBhong&repo=Voice-Assistant-App-Flutter&theme=github_dark" />
-</a>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <a href="https://github.com/AvadhutBhong/EduShelf-Flutter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvadhutBhong&repo=EduShelf-Flutter&theme=github_dark" />
+  </a>
+  <a href="https://github.com/AvadhutBhong/Voice-Assistant-App-Flutter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvadhutBhong&repo=Voice-Assistant-App-Flutter&theme=github_dark" />
+  </a>
+</div>
 
----
-
-<!-- Elite Version (Bug-Free) by ChatGPT 🚀 -->
