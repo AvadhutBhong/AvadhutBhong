@@ -27,7 +27,7 @@ Hi, I'm **Avadhut Bhong** — a passionate **Flutter Developer** exploring **Bac
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-linkedin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/avadhutbhong) 
 
 ---
 
